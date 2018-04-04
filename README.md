@@ -10,35 +10,27 @@
 Для сборки необходим компилятор AutoIt. Никаких сторонних библиотек подгружать не нужно.
 
 # Настройка
-Для настройки необходимо отредактировать mfc63.watchdog.ini
-[General]
-;ID вашей площадки (см пункт RaisID ниже)
-RaisID=35
+Все настройки задаются в файле mfc63.watchdog.ini.
 
+**RaisID** - *ID вашей площадки (см пункт RaisID ниже)*
 
-SmtpServer=smtp.mail.ru ;Параметры smtp сервера с которого будут отправляться письма (здесь рабочие для mai.ru)
-Port=465
+**SmtpServer, Port** - *Параметры smtp сервера с которого будут отправляться письма (по умолчанию указаны рабочие для mai.ru)*
 
-FromName=noreply.2bite ;Имя отправителя
-FromAddress=noreply@mail.ru ;Адрес отправителя
+**FromName** - *Имя отправителя*
 
-;Логин/пароль отправителя
-Login=noreply@mail.ru
-Password=password
+**FromAddress** - *Адрес отправителя*
 
-;Куда отправлять отчет
-ToAddress=mfc020712@yandex.ru
+**Login, Password** - *Логин/пароль отправителя*
 
-;Техподдержка
-AdminMail=sergey.2bite@gmail.com
+**ToAddress** - *Куда отправлять отчет*
 
-[Timers]
-;Частота проверок в минутах
-Delay=60
-;Начало проверки 8:00
-DayStart=8
-;Конец проверки 18:00
-DayEnd=18
+**AdminMail** - *Техподдержка*
+
+**Delay** - *Частота проверок в минутах*
+
+**DayStart** - *Начало дня*
+
+**DayEnd** - *Конец дня*
 
 # RaisID
 
