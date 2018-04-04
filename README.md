@@ -15,15 +15,12 @@
 ;ID вашей площадки (см пункт RaisID ниже)
 RaisID=35
 
-;Параметры smtp сервера с которого будут отправляться письма (здесь рабочие для mai.ru)
-SmtpServer=smtp.mail.ru
+
+SmtpServer=smtp.mail.ru ;Параметры smtp сервера с которого будут отправляться письма (здесь рабочие для mai.ru)
 Port=465
 
-;Имя отправителя
-FromName=noreply.2bite
-
-;Адрес отправителя
-FromAddress=noreply@mail.ru
+FromName=noreply.2bite ;Имя отправителя
+FromAddress=noreply@mail.ru ;Адрес отправителя
 
 ;Логин/пароль отправителя
 Login=noreply@mail.ru
