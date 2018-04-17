@@ -37,7 +37,8 @@
 Чтобы узнать свой RaisID необходимо войти на портал mfc63.samregion.ru через страницу авторизации http://mfc63.samregion.ru/user, а далее:
 
 Простой способ:
-![](https://github.com/2bite/mfc63.watchdog/raw/master/screen3.jpg)
+Нужный номер указан на странице http://mfc63.samregion.ru/user
+![](https://github.com/2bite/mfc63.watchdog/raw/master/screen4.jpg)
 
 Сложный способ:
 1. Перейти в предварительную запись.
