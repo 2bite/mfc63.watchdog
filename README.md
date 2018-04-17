@@ -38,7 +38,7 @@
 
 Простой способ:
 Нужный номер указан на странице http://mfc63.samregion.ru/user
-![](https://github.com/2bite/mfc63.watchdog/raw/master/screen4.png)
+![](https://github.com/2bite/mfc63.watchdog/raw/master/screen5.png)
 
 Сложный способ:
 1. Перейти в предварительную запись.
