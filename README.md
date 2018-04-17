@@ -35,6 +35,7 @@
 
 # RaisID
 Чтобы узнать свой RaisID необходимо войти под своим логином и паролем на сайт mfc63.ru, а далее:
+
 Простой способ:
 ![](https://github.com/2bite/mfc63.watchdog/raw/master/screen3.jpg)
 
