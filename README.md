@@ -34,7 +34,7 @@
 **DayEnd** - *Конец дня*
 
 # RaisID
-Чтобы узнать свой RaisID необходимо войти под своим логином и паролем на сайт mfc63.ru, а далее:
+Чтобы узнать свой RaisID необходимо войти на портал mfc63.samregion.ru через страницу авторизации http://mfc63.samregion.ru/user, а далее:
 
 Простой способ:
 ![](https://github.com/2bite/mfc63.watchdog/raw/master/screen3.jpg)
